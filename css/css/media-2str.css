@@ -1,0 +1,14 @@
+@media(max-width:760px){
+
+    .project{
+    padding-top:40px;
+    }
+
+.project-link{
+    font-size: 14px;
+    }
+
+.project-header h1{
+    font-size: 28px;
+    }
+}
